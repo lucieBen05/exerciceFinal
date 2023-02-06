@@ -20,5 +20,8 @@
   "homepage": "https://github.com/lucieBen05/exerciceFinal#readme",
   "devDependencies": {
     "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "notyf": "^3.10.0"
   }
 }
